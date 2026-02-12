@@ -1,9 +1,9 @@
 PRIMEIRO PROJETO DE FRONT COM HTML + CSS COM FOCO EM =
 
-ESTRUTURA CORRETA DO HTML; 
+Estrutura correta do HTML; 
 
-ESPAÇAMENTO E CONTROLE DE DIVS; 
+Espaçamento e controle de divs; 
 
-FLEXBOX CORRETAMENTE;
+uso correto do Flexbox;
 
-RESPONSIVIDADE.
+Responsividade.
